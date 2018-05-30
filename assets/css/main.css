@@ -436,7 +436,7 @@
 			-webkit-animation: overlay-hide 1.5s ease-in forwards !important;
 			-ms-animation: overlay-hide 1.5s ease-in forwards !important;
 			animation: overlay-hide 1.5s ease-in forwards !important;
-			background: #ffffff;
+			background: #39454b;
 			content: '';
 			display: block;
 			height: 100%;
@@ -480,7 +480,7 @@
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #ffffff;
 		letter-spacing: 0.025em;
 	}
 
