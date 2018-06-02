@@ -476,7 +476,7 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: "KozMinPro", "Source Sans Pro", "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -896,7 +896,7 @@
 
 		.icon:before {
 			display: inline-block;
-			font-family: FontAwesome;
+			font-family: KozMinPro, FontAwesome;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
